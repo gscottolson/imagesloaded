@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "wolfy87-eventemitter": "4.x",
-    "eventie": ">=1.0.4 <2"
+    "eventie": "gscottolson/eventie"
   },
   "repository": {
     "type": "git",
